@@ -1,0 +1,2 @@
+Dataset,Macro_F1,Balanced_Accuracy,Cohen_Kappa
+AAUWSS External,"0.3862 [0.3445, 0.4253]","0.3885 [0.3519, 0.4289]","0.2333 [0.1900, 0.2829]"

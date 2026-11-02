@@ -1,0 +1,100 @@
+channel_name,sampling_rate_hz
+1,8000.2
+1 Impedance,8000.2
+1-2,8000.2
+1-2 (Imp),8000.2
+1-F,8000.2
+2,8000.2
+2 Impedance,8000.2
+2-F,8000.2
+Abdomen,8000.2
+Abdomen CaL,8000.2
+Abdomen Fast,8000.2
+Abdomen Raw,8000.2
+Activity,8000.2
+Light,8000.2
+Ambient Light C1,8000.2
+Audio,8000.2
+Audio Volume,8000.2
+Audio Volume dB,8000.2
+C3,8000.2
+C3 Impedance,8000.2
+C3-M2,8000.2
+C3-M2 (Imp),8000.2
+C4,8000.2
+C4 Impedance,8000.2
+C4-M1,8000.2
+C4-M1 (Imp),8000.2
+cRIP Flow,8000.2
+cRIP Sum,8000.2
+Device Current,8000.2
+E1,8000.2
+E1 Impedance,8000.2
+E1-M2,8000.2
+E1-M2 (Imp),8000.2
+E2,8000.2
+E2 Impedance,8000.2
+E2-M1,8000.2
+E2-M2,8000.2
+E2-M2 (Imp),8000.2
+ECG,8000.2
+ECG Impedance,8000.2
+Elevation,8000.2
+F,8000.2
+F Impedance,8000.2
+F3,8000.2
+F3 Impedance,8000.2
+F3-M2,8000.2
+F3-M2 (Imp),8000.2
+F4,8000.2
+F4 Impedance,8000.2
+F4-M1,8000.2
+F4-M1 (Imp),8000.2
+Flow,8000.2
+Flow Limitation,8000.2
+Heart Rate,8000.2
+Inductance Abdom-0,8000.2
+Inductance Abdom-1,8000.2
+Inductance Thora-0,8000.2
+Inductance Thora-1,8000.2
+K,8000.2
+Left Leg,8000.2
+Left Leg Impedan,8000.2
+M1,8000.2
+M1 Impedance,8000.2
+M1M2,8000.2
+M2,8000.2
+M2 Impedance,8000.2
+Nasal Pressure,8000.2
+O1,8000.2
+O1 Impedance,8000.2
+O1-M2,8000.2
+O1-M2 (Imp),8000.2
+O2,8000.2
+O2 Impedance,8000.2
+O2-M1,8000.2
+O2-M1 (Imp),8000.2
+PosAngle,8000.2
+Power,8000.2
+Pulse (CO2),8000.2
+Raw Pressure,8000.2
+Resp Rate,8000.2
+Right Leg,8000.2
+Right Leg Impeda,8000.2
+RIP Flow,8000.2
+RIP Phase,8000.2
+RIP Sum,8000.2
+RSSIStreaming,8000.2
+Snore,8000.2
+SpO2 (CO2),8000.2
+TcCO2,8000.2
+TcCO2 (Pa),8000.2
+Temperature (CO2,8000.2
+Thorax,8000.2
+Thorax Fast,8000.2
+Thorax Raw,8000.2
+Voltage (battery,8000.2
+Voltage (core),8000.2
+X Axis,8000.2
+Y Axis,8000.2
+Z Axis,8000.2

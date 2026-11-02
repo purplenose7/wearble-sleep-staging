@@ -1,0 +1,19 @@
+aauwss: 
+  path: 'data\raw\AAUWSS'
+  rows_per_epoch: 1920 #64 rows per second * 30 seconds
+
+dreamt: 
+  path: 'data\raw\dreamt'
+  rows_per_epoch: 1920
+
+seed: 77
+
+thresholds:
+  max_missing_ratio: 0.10
+  temp_min: 25.0
+  temp_max: 40.0
+  temp_off_wrist_max_ratio: 0.10
+  eda_min: 0.01
+  bvp_min_var: 0.01
+  hr_min: 30
+  hr_max: 200
